@@ -1,4 +1,4 @@
-"""Simple test for I2C RGB character LCD shield kit"""
+"""Simple test for I2C RGB character LCD shield kit. FOR INSTRUCTOR USE ONLY"""
 import time
 import board
 import busio
